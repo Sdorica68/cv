@@ -1,0 +1,26 @@
+body {
+  background-color: #F0E3FF;
+}
+hr {
+  border-style: none;
+  width: 5%;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+}
+h1 {
+  color: #CC0066;
+}
+h2 {
+  color: #CC0066;
+}
+.puggi{
+  background-color: #52DE97;
+  border-radius: 100%;
+}
+.Sdorica{
+  background-color: #F0E3FF;
+}
+#heading:hover {
+  color: #52DE97;
+}
